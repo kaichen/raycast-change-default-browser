@@ -2,6 +2,8 @@
 
 A Raycast extension to quickly switch the default web browser on macOS.
 
+![screenshot](screenshot.png){width=480}
+
 ## Features
 
 - 🚀 List all installed web browsers on your Mac
